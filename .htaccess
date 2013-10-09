@@ -1,0 +1,4 @@
+<IfModule pagespeed_module>
+ModPagespeedDomain http://prc.wpibeta.org/
+ModPagespeed off
+</IfModule>
